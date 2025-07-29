@@ -9,7 +9,7 @@ PKG_CPE_ID:=cpe:/a:linuxfoundation:runc
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=https://codeload.github.com/opencontainers/runc/tar.gz/v${PKG_VERSION}?
-PKG_HASH:=8a376aaf6bb9e4b3c8da5ebe55c8e2b5ca6be73956f515d5b3139d2ad56dbacf
+PKG_HASH:=19b280702341f33ff353fa254d1dbdb67f6aab2c74395f6d651a17524f68e752
 
 PKG_MAINTAINER:=Gerard Ryan <G.M0N3Y.2503@gmail.com>
 
